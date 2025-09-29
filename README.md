@@ -16,7 +16,7 @@ Readers interested in Easy Consistency Tuning (ECT) can refer to [https://github
 
 1. **Train the LECT module:**
    
-   Modify the model parameter path, dataset path, and other related paths to your own paths. Run LECT.py
+   Modify the model parameter path, dataset path, and other related paths to your own paths. Run `LECT.py`
    
 3. **Sampling:**
 
