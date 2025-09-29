@@ -3,7 +3,8 @@
 One-step samples of BCLCM-Palm
 ![One-step samples of BCLCM-Palm](OnestepSample.png)
 
-
+The training process of BCLCM-Palm
+![The training process of BCLCM-Palm](Model.png)
 
 Regarding the fine-tuning of VQ-VAE, the training of the Style Transfer module, the calculation of FID and TAR@FAR, and other related work, please refer to CLDM-Palm [https://github.com/Ceabeans/Code](https://github.com/Ceabeans/Code) for detailed information. 
 
