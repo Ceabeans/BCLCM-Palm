@@ -8,7 +8,7 @@ Here, we mainly introduce the training of the Latent Easy Consistency Training (
 
 Readers interested in Easy Consistency Tuning (ECT) can refer to [https://github.com/locuslab/ect](https://github.com/locuslab/ect) for further details.
 
-## Training and Sample Collection for BCLDM-Palm
+## Training and Sample Collection for BCLCM-Palm
 
 1. **Train the LECT module:**
    
